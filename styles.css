@@ -1,9 +1,12 @@
-  pre {
+pre {
     font-size: 150%;
-  }
+}
 
-  h2 {
-      font-size: 120%;
-  }
+h2 {
+    font-size: 125%;
+    text-align: center;
+}
 
-
+center {
+    text-align: center;
+}
