@@ -1,9 +1,13 @@
   pre {
     font-size: 150%;
+    margin: 500px;
+    width: 60%;
+    border: 3px solid #00e842;
+    padding: 10px;
   }
 
   h2 {
       font-size: 120%;
   }
 
-  
+
