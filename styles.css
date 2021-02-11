@@ -16,7 +16,7 @@ html {
 background-color: rgb(112, 112, 112);
 }
 
-p {
+.pre {
 font-size: 150%;
 text-align: center;
 }
