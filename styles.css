@@ -5,6 +5,7 @@ font-size: 150%;
 border: 0px solid #00e842;
 padding: 20px;
 text-align: center;
+color: white;
 }
 
 h2 {
@@ -21,4 +22,5 @@ background-size: auto;
 .end {
 font-size: 150%;
 text-align: center;
+color: white;
 }
