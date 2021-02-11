@@ -1,4 +1,4 @@
-pre {
+.start {
 margin: auto;
 width: 20%;
 font-size: 150%;
@@ -16,7 +16,7 @@ html {
 background-color: rgb(112, 112, 112);
 }
 
-.pre {
+.end {
 font-size: 150%;
 text-align: center;
 }
