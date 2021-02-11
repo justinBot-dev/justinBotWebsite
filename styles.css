@@ -5,13 +5,18 @@ font-size: 150%;
 border: 0px solid #00e842;
 padding: 20px;
 text-align: center;
-    }
+}
 
 h2 {
 font-size: 145%;
 text-align: center;
-    }
+}
 
 html {
 background-color: rgb(112, 112, 112);
-    }
+}
+
+p {
+font-size: 150%;
+text-align: center;
+}
